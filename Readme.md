@@ -1,5 +1,5 @@
 ### Running Locally
-<emp>Requirements</emp>: Xampp installed
+<strong>Requirements</strong>: Xampp installed
 <br>
 In the terminal type this following command : `sudo /opt/lampp/manager-linux-x64.run`
 <br>
