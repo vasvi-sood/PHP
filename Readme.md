@@ -7,3 +7,6 @@ In the terminal type this following command : `sudo /opt/lampp/manager-linux-x64
 - Mange servers -> Restart All
 - Open Localhost/folderName 
 - Index.php file is up and running
+
+#### Creating a database
+go to `localhost/phpmyadmin`

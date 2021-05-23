@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding:0 px;
+    font-family: 'Pattaya', sans-serif;
+}
+.container {
+max-width: 80%;
+padding: 34px;
+background-color: rgb(198, 151, 241);
+margin: auto;
+}
+.container h1, p{
+text-align: center;
+}
+input,textarea{
+    width: 80%;
+   margin: 11px;
+   padding: 20px;
+}
+
+.btn{
+    margin: 11px; 
+    width: 40%;
+    background-color: rgb(255, 93, 125);
+}
+.submsg{
+    /* display: none; */
+    color: green;
+    font-size: xx-large;
+}
